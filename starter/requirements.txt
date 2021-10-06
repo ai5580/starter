@@ -1,0 +1,12 @@
+azure-storage-blob==12.9.0
+Flask==2.0.1We
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==0.15.1
+pyodbc==4.0.32
+SQLAlchemy==1.4.25
+Werkzeug==1.0.1
+WTForms==2.3.1
+PyMySQL==1.0.2
+flask-mysql==1.5.2
+WTForms==2.3.3
+greenlet==1.1.1
